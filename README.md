@@ -21,7 +21,6 @@ Este proyecto incluye:
 
 Para instalar PyQt5, ejecuta:
 
-```bash
 pip install PyQt5
 
 Uso
