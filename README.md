@@ -23,7 +23,7 @@ Para instalar PyQt5, ejecuta:
 
 pip install PyQt5
 
-Uso
+## Uso
 1 Ejecuta la aplicación:
     python main.py
 
@@ -33,10 +33,10 @@ Uso
 
 4 Observa el progreso y los primeros números primos encontrados en pantalla.
 
-Notas
+## Notas
 Para no saturar la interfaz, solo se muestran los primeros 1000 números primos.
 
 El cálculo puede tardar más para límites muy grandes.
 
-Autor
+## Autor
 Cristian Camilo González Blanco
